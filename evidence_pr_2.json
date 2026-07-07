@@ -1,0 +1,13 @@
+{
+  "evidence_id": "EV-CC8.1-2026-PR2",
+  "control_mapping": "SOC 2 Type II - CC8.1 (Change Management)",
+  "evaluation_timestamp": "2026-07-07T17:42:34.797248Z",
+  "target_repository": "github.com/saiayush247/complyjet-codetrust",
+  "change_reference": "Pull Request #2 - Update README.md",
+  "verification_trail": {
+    "human_review_status": "FAILED / INSUFFICIENT",
+    "review_duration_seconds": 10.0,
+    "risk_assessment": "Code was introduced via AI development signatures and merged without sufficient human verification time."
+  },
+  "remediation_required": "True - Requires retrospective engineering review and manual sign-off."
+}
